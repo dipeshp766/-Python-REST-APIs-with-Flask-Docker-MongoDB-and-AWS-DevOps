@@ -21,16 +21,16 @@ def add_two_nums():
 @app.route('/retJSON')
 def retJSON():
     ret_json = {
-        'Name':'Dipesh',
-        'Age': 24,
+        'Name':'abcdxyz',
+        'Age': 78,
         'Phones': [
             {
                 "phoneName": "Samsung Galaxy S10+",
-                "phoneNumber": 5199849280
+                "phoneNumber": 9999999999
             },
             {
                 "phoneName": "Sony Xperia Z1",
-                "phoneNumber": 9726468848
+                "phoneNumber": 9999999999
             }
         ]
     }
